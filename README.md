@@ -151,10 +151,31 @@ jupyter notebook Detect Lung Cancer.ipynb
 ## 🔮 Future Improvements
 
 - Handle class imbalance using:
-  - SMOTE / oversampling
-- Class-weighted models
+   - SMOTE / oversampling
+   - Class-weighted models
 - Evaluate using ROC-AUC and PR-AUC
 - Try Gradient Boosting or XGBoost
 - Hyperparameter tuning
 - Build a survival risk scoring system
 - Add explainability (feature importance / SHAP)
+
+---
+
+👨‍💻 Author
+
+**Syed Hussain Abdul Hakeem**
+
+- LinkedIn: https://www.linkedin.com/in/syed-hussain-abdul-hakeem
+- GitHub: https://github.com/SyedHussain23
+
+---
+
+📄 License
+
+This project is open source and available under the MIT License.
+
+---
+
+⭐ Show Your Support
+
+If you found this project useful, consider giving it a ⭐.
